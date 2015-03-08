@@ -1,0 +1,2 @@
+# POIApp
+xamarin project
